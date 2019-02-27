@@ -50,6 +50,12 @@ kbd {
   color: #ffc600;
 }
 
+.soundsharpflat{
+  font-size: 2rem;
+  text-transform: uppercase;
+  letter-spacing: .1rem;
+  color: #ffc600;
+}
 .header {
   margin-top: 4rem;
   text-align: center;
