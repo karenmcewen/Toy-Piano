@@ -17,7 +17,9 @@ body,html {
   align-items: center;
   justify-content: center;
 }
-
+.keys .sharpflat {
+  transform: translateY(-50%)
+}
 .key {
   border: .4rem solid black;
   border-radius: .5rem;
@@ -39,7 +41,7 @@ body,html {
 }
 
 kbd {
-  display: block;
+  display:block;
   font-size: 2rem;
 }
 
@@ -50,8 +52,8 @@ kbd {
   color: #ffc600;
 }
 
-.soundsharpflat{
-  font-size: 2rem;
+.soundsharpflat {
+  font-size: 2.5rem;
   text-transform: uppercase;
   letter-spacing: .1rem;
   color: #ffc600;
